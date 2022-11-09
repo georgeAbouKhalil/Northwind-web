@@ -1,0 +1,29 @@
+html, body, #root{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  text-align: center;
+  font-style: italic;
+  color: white;
+  background-image: linear-gradient(45deg,#009FFD,#2f2f74);
+  /* #2A2A72   #2A2A72 */
+}
+.Box{
+  display: inline-block;
+  margin: 10px;
+  padding: 0 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px;
+  text-align: left;
+}
+a{
+  color: white;
+}
+h2{
+  text-align: center;
+  text-decoration: underline;
+}
+.redText{
+  color: red;
+}

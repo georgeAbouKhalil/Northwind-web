@@ -1,0 +1,15 @@
+.Menu {
+	display: flex;
+    flex-direction: column;
+}
+
+.Menu > a{
+    margin-top: 20px;
+}
+
+.Menu > .active {
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration:none;
+}

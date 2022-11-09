@@ -1,0 +1,13 @@
+.Login > form{
+	width: 250px;
+}
+.Login input, .Login button{
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 20px 0;
+}
+.Login span{
+    color: red;
+    position: absolute;
+    margin: 0 20px;
+}
